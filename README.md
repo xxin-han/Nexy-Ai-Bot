@@ -42,4 +42,5 @@
    node index.js
    ```
 8. Stop bot
-   ctrl + c
+   
+     ```ctrl + c  ```
