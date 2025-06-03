@@ -14,7 +14,7 @@
 1. Register [Nexy Ai](https://point.nexyai.io/?ref=HQW2L?inviteCode=E84eUZ0c9k0iVB3Q)
 
 2. Install Tools.
-```bash
+   ```bash
    wget https://github.com/xxin-han/setup/raw/main/setup.sh -O setup.sh && chmod +x setup.sh && ./setup.sh
    ```
 3. Clone this repository:
